@@ -1,0 +1,110 @@
+/*
+3 ways
+1.inline
+2.internal
+3.external
+
+selector {
+    color : red ;
+
+}
+1.tag name
+2. class
+3.id
+
+vw cm px rem em %
+
+
+p {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+#redP {
+    color: violet;
+}
+
+
+
+div {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(149, 253, 218);
+    border-bottom-style: dotted;
+    border-color: black;
+    border-width: 3px; 
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+
+
+div:hover {
+    background-color: rgb(245, 138, 8);
+    cursor: pointer;
+}
+display: 1.block 2.inline 3.inline block
+
+li {
+    list-style: square;
+    display: inline;
+}
+
+table,tr,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 10px;
+}
+
+tr:hover{
+    background-color: crimson;
+}
+
+
+
+
+p {
+    color: black;
+    background-color: aquamarine;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px violet;
+    text-align: center;
+}
+
+
+.DIV {
+    background-color: blueviolet;
+} 
+
+div {
+    width: 400px;
+    height: 300px;
+    background-color: rgb(149, 253, 218);
+    border-bottom-style: dotted;
+    border-color: black;
+    border-width: 3px;  
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    transition: 0.3s;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*/
+
+.btn {
+    background-color: rgb(203, 85, 85);
+}
+
+.btn:hover{
+    background-color: brown;
+}
+
+body{
+    background-color: aquamarine;
+}
